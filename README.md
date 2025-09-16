@@ -44,6 +44,7 @@ Outside of code, you’ll often find me exploring new tech tools, watching anime
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roohan-naeem&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roohan-naeem&" alt="roohan-naeem" /></p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=roohan-naeem&theme=light&hide_border=false" alt="GitHub Streak" />
+</p>
 
----
