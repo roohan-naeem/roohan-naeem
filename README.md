@@ -1,6 +1,5 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhoYWdtc2xuNzB1cmEzeHJtYWkzc2c4NHA2c2JvcWhmeG81OHNxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="MasterHead" width="100%" height="300" />
-<img src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" alt="Camo Github User Content" width="50" height="50" />
-<h1 align="center">Hi 👋, I'm Roohan Naeem</h1>
+<h1 align="center">Hi There, <img src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" alt="Camo Github User Content" width="50" height="50" /></h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF3MG53d2IyMG1pcnZuemdkZG51aWRlYTl6dzhmcmJscXV2NWx2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
