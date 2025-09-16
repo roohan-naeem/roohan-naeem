@@ -18,7 +18,7 @@ Outside of code, you’ll often find me exploring new tech tools, watching anime
 
 **Fun Facts:**
 
-* I prefer late-night coding over early mornings.
+* I prefer late night coding over early mornings.
 </p>
 
 📫 Reach me at: **roohan.naeem@gmail.com**
